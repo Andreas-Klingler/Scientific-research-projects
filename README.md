@@ -1,6 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10810122.svg)](https://doi.org/10.5281/zenodo.10810122)
   
-# TMOR_Sprung.m
+#README
+
+**Title** TMOR-jump.m  
 
 **Description:** Matlab code file
 
