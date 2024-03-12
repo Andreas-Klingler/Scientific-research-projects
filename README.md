@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10810123.svg)](https://doi.org/10.5281/zenodo.10810123)
+  
 # TMOR_Sprung.m
 
 **Description:** Matlab code file
