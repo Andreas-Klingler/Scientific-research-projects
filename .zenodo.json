@@ -1,0 +1,12 @@
+{
+  "creators": [
+    {
+      "orcid": "0000-0002-6389-8650",
+      "affiliation": "Leibniz-Institut für Verbundwerkstoffe GmbH",
+      "name": "Andreas Klingler"
+    }
+  ],
+  "license": "MIT",
+  "title": "TMOR-jump",
+  "keywords": ["Temperature-modulated optical refractometry", "isothermal jump method", "quasi-static property", "thermal volume expansion"]
+}
